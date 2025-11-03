@@ -7,7 +7,7 @@ HousePrice — это инструмент для прогнозирования
 
 ---
 
-##  Обзор проекта
+###  Обзор проекта
 
 Проект состоит из основных частей:
 
@@ -19,9 +19,9 @@ HousePrice — это инструмент для прогнозирования
 
 
 
-## Структура проекта
+### Структура проекта
 
-### Данные и ноутбуки
+#### Данные и ноутбуки
 - `HousePrice_EDA.ipynb` – анализ структуры датасета, визуализация признаков, работа с пропущенными значениями и выбросами.  
 - `HousePrice_Baseline_v.ipynb` – базовое обучение модели, подготовка начальных предсказаний и сохранение очищенного датасета.  
 - `HousePrice_XGB_Optuna_v.ipynb` – обучение XGBoost модели с подбором гиперпараметров через Optuna.  
@@ -30,9 +30,9 @@ HousePrice — это инструмент для прогнозирования
 - `data/Preprocessed_Data.csv` – предобработанный датасет, сохранённый для использования в моделях.
 
 
-## Данные
+### Данные
 
-## Датасеты для проекта
+#### Датасеты для проекта
 
 - **Raw data:** [Download data.csv](https://drive.google.com/uc?export=download&id=1nJMsTWy1MYg9COinC8dPBok_wJAbJxYZ)  
 - **Preprocessed data:** [Download Preprocessed_Data.csv](https://drive.google.com/uc?export=download&id=1XTUZKFdg2jEnCEs484alUG81bDzWZxzg)
