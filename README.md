@@ -1,5 +1,5 @@
-# IQ_House_Price
-# HousePrice 
+## IQ_House_Price
+## HousePrice 
 
 **Цель проекта:** разработать сервис для оперативного использования модели предсказания цен недвижимости агентами и аналитиками.
 
@@ -32,7 +32,7 @@ HousePrice — это инструмент для прогнозирования
 
 ### Данные
 
-#### Датасеты для проекта
+##### Датасеты для проекта
 
 - **Raw data:** [Download data.csv](https://drive.google.com/uc?export=download&id=1nJMsTWy1MYg9COinC8dPBok_wJAbJxYZ)  
 - **Preprocessed data:** [Download Preprocessed_Data.csv](https://drive.google.com/uc?export=download&id=1XTUZKFdg2jEnCEs484alUG81bDzWZxzg)
